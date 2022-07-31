@@ -42,7 +42,7 @@ global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //
 global.packname = 'Made By' //sticker wm ubah
 global.author = 'Pann' //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.typemenu = 'document'
+global.typemenu = 'photo'
 
 global.limitawal = {
     premium: "Infinity",
